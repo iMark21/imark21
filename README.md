@@ -1,10 +1,12 @@
 <h1 align="left">Hi 👋, I'm Michel Marques</h2>
 <h3 align="left">iOS Developer</h3>
 
-- 🔭 I’m currently working on iOS projects
-- 🌱 I’m currently learning **SwiftUI**
-- 📫 How to reach me: [Email](appsimark@gmail.com)
-- ⚡ Fun fact **I love to Football (Valencia CF).**
+- 👨‍💻 Working on iOS projects since 2015
+- 🔥 Triying to learn **SwiftUI**
+- 📚 Reading about investments
+- ⚽ Valencia CF supporter
+- 📫 Mail me to appsimark@gmail.com
+
 
 ### Connect with me:
 
