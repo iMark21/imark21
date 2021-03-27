@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, iMark21</h2>
+<h1 align="left">Hi 👋, I'm Michel</h2>
 <h3 align="left">iOS Developer</h3>
 
 - 👨‍💻 Working on iOS projects since 2015
