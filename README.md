@@ -2,7 +2,7 @@
 <h3 align="left">iOS Developer</h3>
 
 - 👨‍💻 Working on iOS projects since 2015
-- 🔥 Triying to learn **SwiftUI**
+- 🔥 Trying to learn **SwiftUI**
 - 📚 Reading about investments
 - ⚽ Valencia CF supporter
 
